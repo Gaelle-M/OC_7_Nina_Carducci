@@ -111,6 +111,7 @@ body {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
+	font-size: 18px !important;
 }
 
 #about-me p {
